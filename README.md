@@ -21,3 +21,9 @@ J’ai compris que le SequenceMatcher de difflib sert à comparer deux textes po
 L’algorithme cherche le plus grand bloc identique entre deux chaînes de caractères.
 Il compare les lettres une par une et construit progressivement les correspondances.
 J ai éssayé de reproduire le code à ma manière.
+
+Séance du 20 mai — 8h/12h
+
+utilisation de fonctions pour faciliter la reconnaissance du plagiat,nottament texte.lower() qui met tout le texte en minuscule
+On a fait une liste des mots interdits a retirer (ex: le la on ils ect...) pour que la reconaissance du pagiat soit plus efficace
+on est en train de tester comment faire du "Stemming" globalement on prend seulement la racine des mots pour éviter le rephrasage (manger et mangeais devient mang)
