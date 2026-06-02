@@ -1,4 +1,4 @@
-# projet-anto-plagiat
+# projet-anti-plagiat
 Séance du 12 mai — 8h15/12h15 - 14h/18h
 On a fait des recherches pour trouver différentes manières de comparer des textes et d’autres éléments sur Python. Pour cela, on a trouvé 5 solutions :
 Difflib
@@ -21,3 +21,8 @@ J’ai compris que le SequenceMatcher de difflib sert à comparer deux textes po
 L’algorithme cherche le plus grand bloc identique entre deux chaînes de caractères.
 Il compare les lettres une par une et construit progressivement les correspondances.
 J ai éssayé de reproduire le code à ma manière.
+
+Séance du 29 mai — 13h30/17h30
+
+Recap des fonctions simples que pourrait utiliser un programme antiplagiat.
+On a désormais des connaissances de base pour faire un vrai programme
